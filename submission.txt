@@ -1,0 +1,5 @@
+Linux distro: Kali Linux
+Compiler: g++ (Debian 5.3.1-5) 5.3.1
+Name: Harini Vijayaraghavan Chitra 
+Email: harinivc@tamu.edu
+TODO: Lock read requests only when a write request is being processed.
